@@ -1,3 +1,7 @@
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,sqlite,arch,linux,bash,vim,git,html,css,js,php)](https://skillicons.dev)
+[![Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leondzn&theme=onedark)]()
+[![Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leondzn&theme=onedark)]()
+[![GitHub Streak](https://streak-stats.demolab.com/?user=leondzn&theme=onedark)](https://git.io/streak-stats)
 <!--
 **leondzn/leondzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
